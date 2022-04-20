@@ -1,7 +1,6 @@
-# Javascript Tutorial
+# Tunc React Tutorial
 
 This tutorial is prepared from udemy Max React Course , web resources and some additions from me.
-
 
 CONTENT |
 --- |
